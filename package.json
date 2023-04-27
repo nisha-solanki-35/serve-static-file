@@ -1,0 +1,19 @@
+{
+  "name": "serve-static-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudiz-nisha-solanki/serve-static-file.git"
+  },
+  "author": "Nisha Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudiz-nisha-solanki/serve-static-file/issues"
+  },
+  "homepage": "https://github.com/yudiz-nisha-solanki/serve-static-file#readme"
+}
